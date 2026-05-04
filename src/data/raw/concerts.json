@@ -1,0 +1,538 @@
+[
+  {
+    "id": 1,
+    "title": "伊達さゆり BIRTHDAY PARTY 20th ～みんなとなら今日もきっとステキな日～",
+    "date": "2022-09-30",
+    "venue_id": 1,
+    "artist_id": 1,
+    "setlist": [
+      {
+        "type": 1,
+        "content": {
+          "title": "Yeah! めっちゃホリディ",
+          "original_artist": "松浦亜弥",
+          "lyricist": "つんく",
+          "composer": "つんく",
+          "arranger": "高橋諭一"
+        }
+      },
+      {
+        "type": 1,
+        "content": {
+          "title": "アイマイモコ",
+          "original_artist": "水瀬いのり",
+          "lyricist": "HoneyWorks",
+          "composer": "HoneyWorks"
+        }
+      },
+      {
+        "type": 1,
+        "content": {
+          "title": "手紙",
+          "original_artist": "back number",
+          "lyricist": "清水依与吏",
+          "composer": "清水依与吏"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "伊達さゆりBirthday Party 21st ～好きな色に着替えて～ 東京公演",
+    "date": "2023-09-30",
+    "venue_id": 1,
+    "artist_id": 1,
+    "setlist": [
+      {
+        "type": 1,
+        "content": {
+          "title": "金曜日のおはよう -another story-",
+          "original_artist": "HoneyWorks",
+          "lyricist": "shito・Gom",
+          "composer": "shito"
+        }
+      },
+      {
+        "type": 1,
+        "content": {
+          "title": "心という名の不可解",
+          "original_artist": "Ado",
+          "lyricist": "まふまふ",
+          "composer": "まふまふ"
+        }
+      },
+      {
+        "type": 1,
+        "content": {
+          "title": "ボクノート",
+          "original_artist": "スキマスイッチ",
+          "lyricist": "大橋卓弥・常田真太郎",
+          "composer": "大橋卓弥・常田真太郎"
+        }
+      },
+      {
+        "type": 1,
+        "content": {
+          "title": "だから僕は音楽を辞めた",
+          "original_artist": "ヨルシカ",
+          "lyricist": "n-buna",
+          "composer": "n-buna"
+        }
+      },
+      {
+        "type": 1,
+        "content": {
+          "title": "あのころ見た光",
+          "original_artist": "緑黄色社会",
+          "lyricist": "長屋晴子",
+          "composer": "穴見真吾"
+        }
+      },
+      {
+        "type": 1,
+        "content": {
+          "title": "Crystal Wishes Journey",
+          "original_artist": "東京ディズニーシー"
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "伊達さゆりBirthday Party 21st ～好きな色に着替えて～ 大阪公演",
+    "date": "2023-10-04",
+    "venue_id": 2,
+    "artist_id": 1,
+    "setlist": [
+      {
+        "type": 1,
+        "content": {
+          "title": "金曜日のおはよう -another story-",
+          "original_artist": "HoneyWorks",
+          "lyricist": "shito・Gom",
+          "composer": "shito"
+        }
+      },
+      {
+        "type": 1,
+        "content": {
+          "title": "Ready Steady Go!",
+          "original_artist": "水瀬いのり",
+          "lyricist": "畑 亜貴",
+          "composer": "高橋 諒"
+        }
+      },
+      {
+        "type": 1,
+        "content": {
+          "title": "怪盗",
+          "original_artist": "back number",
+          "lyricist": "清水依与吏",
+          "composer": "清水依与吏"
+        }
+      },
+      {
+        "type": 1,
+        "content": {
+          "title": "だから僕は音楽を辞めた",
+          "original_artist": "ヨルシカ",
+          "lyricist": "n-buna",
+          "composer": "n-buna"
+        }
+      },
+      {
+        "type": 1,
+        "content": {
+          "title": "あのころ見た光",
+          "original_artist": "緑黄色社会",
+          "lyricist": "長屋晴子",
+          "composer": "穴見真吾"
+        }
+      },
+      {
+        "type": 1,
+        "content": {
+          "title": "Crystal Wishes Journey",
+          "original_artist": "東京ディズニーシー"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "伊達さゆりBirthday Party 22nd～ぼくに僕からのプレゼント～",
+    "date": "2024-09-30",
+    "venue_id": 3,
+    "artist_id": 1,
+    "setlist": [
+      {
+        "type": 1,
+        "content": 2
+      },
+      {
+        "type": 1,
+        "content": {
+          "title": "SISTER",
+          "original_artist": "back number",
+          "lyricist": "清水依与吏",
+          "composer": "清水依与吏"
+        }
+      },
+      {
+        "type": 1,
+        "content": {
+          "title": "カヌレ",
+          "original_artist": "CHiCO with HoneyWorks",
+          "lyricist": "HoneyWorks",
+          "composer": "HoneyWorks"
+        }
+      },
+      {
+        "type": 1,
+        "content": {
+          "title": "明日",
+          "original_artist": "SHISHAMO",
+          "lyricist": "宮崎朝子",
+          "composer": "宮崎朝子"
+        }
+      },
+      {
+        "type": 1,
+        "content": 3
+      },
+      {
+        "type": 1,
+        "content": 1
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "伊達さゆりBirthday Fan Meeting 23rd ～また明日も～ 東京公演 昼公演",
+    "date": "2025-09-30",
+    "venue_id": 4,
+    "artist_id": 1,
+    "setlist": [
+      {
+        "type": 1,
+        "content": 1
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "伊達さゆりBirthday Fan Meeting 23rd ～また明日も～ 東京公演 夜公演",
+    "date": "2025-09-30",
+    "venue_id": 4,
+    "artist_id": 1,
+    "setlist": [
+      {
+        "type": 1,
+        "content": 2
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "伊達さゆりBirthday Fan Meeting 23rd ～また明日も～ 仙台公演 昼公演",
+    "date": "2025-10-11",
+    "venue_id": 5,
+    "artist_id": 1,
+    "setlist": [
+      {
+        "type": 1,
+        "content": 1
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "伊達さゆりBirthday Fan Meeting 23rd ～また明日も～ 仙台公演 夜公演",
+    "date": "2025-10-11",
+    "venue_id": 5,
+    "artist_id": 1,
+    "setlist": [
+      {
+        "type": 1,
+        "content": 2
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "ソロデビューミニアルバム 『Party!Party!!Party!!!』 発売記念イベント＜千葉県＞",
+    "date": "2026-01-10",
+    "venue_id": 6,
+    "artist_id": 1,
+    "setlist": [
+      {
+        "type": 1,
+        "content": 2
+      },
+      {
+        "type": 1,
+        "content": 6
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "ソロデビューミニアルバム 『Party!Party!!Party!!!』 発売記念イベント＜大阪府＞",
+    "date": "2026-01-11",
+    "venue_id": 7,
+    "artist_id": 1,
+    "setlist": [
+      {
+        "type": 1,
+        "content": 2
+      },
+      {
+        "type": 1,
+        "content": 6
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "ソロデビューミニアルバム 『Party!Party!!Party!!!』 発売記念イベント＜愛知県＞",
+    "date": "2026-01-12",
+    "venue_id": 8,
+    "artist_id": 1,
+    "setlist": [
+      {
+        "type": 1,
+        "content": 2
+      },
+      {
+        "type": 1,
+        "content": 6
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "ソロデビューミニアルバム 『Party!Party!!Party!!!』 発売記念イベント＜埼玉県＞",
+    "date": "2026-03-07",
+    "venue_id": 9,
+    "artist_id": 1,
+    "setlist": [
+      {
+        "type": 1,
+        "content": 6
+      },
+      {
+        "type": 1,
+        "content": 5
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "ソロデビューミニアルバム 『Party!Party!!Party!!!』 発売記念イベント＜宮城県＞",
+    "date": "2026-03-15",
+    "venue_id": 11,
+    "artist_id": 1,
+    "setlist": [
+      {
+        "type": 1,
+        "content": 6
+      },
+      {
+        "type": 1,
+        "content": 5
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "ソロデビューミニアルバム 『Party!Party!!Party!!!』 発売記念イベント＜東京都＞",
+    "date": "2026-03-24",
+    "venue_id": 10,
+    "artist_id": 1,
+    "setlist": [
+      {
+        "type": 1,
+        "content": 6
+      },
+      {
+        "type": 1,
+        "content": 5
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "ソロデビューミニアルバム 『Party!Party!!Party!!!』 発売記念イベント＜千葉県＞",
+    "date": "2026-03-25",
+    "venue_id": 12,
+    "artist_id": 1,
+    "setlist": [
+      {
+        "type": 1,
+        "content": 6
+      },
+      {
+        "type": 1,
+        "content": 5
+      },
+      {
+        "type": 1,
+        "content": 4
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "伊達さゆり 1st LIVE「Party!Party!!Party!!!」 Day.1",
+    "date": "2026-04-11",
+    "venue_id": 13,
+    "artist_id": 1,
+    "setlist": [
+      { "type": 1, "content": 2 },
+      { "type": 1, "content": 1 },
+      { "type": 0, "content": "MC①" },
+      { "type": 1, "content": { "title": "Party!!", "original_artist": "緑黄色社会" } },
+      { "type": 0, "content": "幕間映像①" },
+      { "type": 1, "content": 6 },
+      { "type": 1, "content": 5 },
+      { "type": 0, "content": "MC②" },
+      { "type": 1, "content": 8 },
+      { "type": 0, "content": "MC③" },
+      { "type": 1, "content": 4 },
+      { "type": 1, "content": { "title": "ドキドキ", "original_artist": "SHISHAMO" } },
+      { "type": 1, "content": 7 },
+      { "type": 0, "content": "幕間映像②" },
+      { "type": 1, "content": { "title": "電車の窓から", "original_artist": "back number" } },
+      { "type": 0, "content": "MC④" },
+      { "type": 1, "content": 3 },
+      { "type": 2, "content": 9 },
+      { "type": 0, "content": "MC⑤" },
+      { "type": 2, "content": 5 }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "伊達さゆり 1st LIVE「Party!Party!!Party!!!」 Day.2",
+    "date": "2026-04-12",
+    "venue_id": 13,
+    "artist_id": 1,
+    "setlist": [
+      { "type": 1, "content": 2 },
+      { "type": 1, "content": 1 },
+      { "type": 0, "content": "MC①" },
+      { "type": 1, "content": { "title": "Party!!", "original_artist": "緑黄色社会" } },
+      { "type": 0, "content": "幕間映像①" },
+      { "type": 1, "content": 6 },
+      { "type": 1, "content": 5 },
+      { "type": 0, "content": "MC②" },
+      { "type": 1, "content": 8 },
+      { "type": 0, "content": "MC③" },
+      { "type": 1, "content": 4 },
+      { "type": 1, "content": { "title": "ドキドキ", "original_artist": "SHISHAMO" } },
+      { "type": 1, "content": 7 },
+      { "type": 0, "content": "幕間映像②" },
+      { "type": 1, "content": { "title": "電車の窓から", "original_artist": "back number" } },
+      { "type": 0, "content": "MC④" },
+      { "type": 1, "content": 3 },
+      { "type": 2, "content": 9 },
+      { "type": 0, "content": "MC⑤" },
+      { "type": 2, "content": 6 }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Say U Fan Fes. vol.1",
+    "date": "2026-05-23",
+    "venue_id": 14,
+    "artist_id": 1,
+    "setlist": []
+  },
+  {
+    "id": 19,
+    "title": "ソロデビューミニアルバム 『Party!Party!!Party!!!』 発売記念店舗イベント",
+    "date": "2026-06-03",
+    "venue_id": 15,
+    "artist_id": 1,
+    "setlist": []
+  },
+  {
+    "id": 20,
+    "title": "伊達さゆり Fan Meeting Tour 2026 ＜愛知公演＞ 昼公演",
+    "date": "2026-06-27",
+    "venue_id": 16,
+    "artist_id": 1,
+    "setlist": []
+  },
+  {
+    "id": 21,
+    "title": "伊達さゆり Fan Meeting Tour 2026 ＜愛知公演＞ 夜公演",
+    "date": "2026-06-27",
+    "venue_id": 16,
+    "artist_id": 1,
+    "setlist": []
+  },
+  {
+    "id": 22,
+    "title": "伊達さゆり Fan Meeting Tour 2026 ＜宮城公演＞ 昼公演",
+    "date": "2026-07-19",
+    "venue_id": 17,
+    "artist_id": 1,
+    "setlist": []
+  },
+  {
+    "id": 23,
+    "title": "伊達さゆり Fan Meeting Tour 2026 ＜宮城公演＞ 夜公演",
+    "date": "2026-07-19",
+    "venue_id": 17,
+    "artist_id": 1,
+    "setlist": []
+  },
+  {
+    "id": 24,
+    "title": "伊達さゆり Fan Meeting Tour 2026 ＜大阪公演＞ 昼公演",
+    "date": "2026-07-26",
+    "venue_id": 18,
+    "artist_id": 1,
+    "setlist": []
+  },
+  {
+    "id": 25,
+    "title": "伊達さゆり Fan Meeting Tour 2026 ＜大阪公演＞ 夜公演",
+    "date": "2026-07-26",
+    "venue_id": 18,
+    "artist_id": 1,
+    "setlist": []
+  },
+  {
+    "id": 26,
+    "title": "伊達さゆり Fan Meeting Tour 2026 ＜福岡公演＞ 昼公演",
+    "date": "2026-09-12",
+    "venue_id": 19,
+    "artist_id": 1,
+    "setlist": []
+  },
+  {
+    "id": 27,
+    "title": "伊達さゆり Fan Meeting Tour 2026 ＜福岡公演＞ 夜公演",
+    "date": "2026-09-12",
+    "venue_id": 19,
+    "artist_id": 1,
+    "setlist": []
+  },
+  {
+    "id": 28,
+    "title": "伊達さゆり Fan Meeting Tour 2026 ＜東京公演＞ 昼公演",
+    "date": "2026-09-30",
+    "venue_id": 20,
+    "artist_id": 1,
+    "setlist": []
+  },
+  {
+    "id": 29,
+    "title": "伊達さゆり Fan Meeting Tour 2026 ＜東京公演＞ 夜公演",
+    "date": "2026-09-30",
+    "venue_id": 20,
+    "artist_id": 1,
+    "setlist": []
+  }
+]

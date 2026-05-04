@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1,
+    "name": "豊洲PIT",
+    "prefecture": "東京都",
+    "address": "東京都江東区豊洲6-1-23"
+  },
+  {
+    "id": 2,
+    "name": "Zepp Namba",
+    "prefecture": "大阪府",
+    "address": "大阪府大阪市浪速区敷津東2-1-39"
+  },
+  {
+    "id": 3,
+    "name": "大宮ソニックシティ 大ホール",
+    "prefecture": "埼玉県",
+    "address": "埼玉県さいたま市大宮区桜木町1-7-5"
+  },
+  {
+    "id": 4,
+    "name": "ニッショーホール",
+    "prefecture": "東京都",
+    "address": "東京都港区東新橋1-1-19"
+  },
+  {
+    "id": 5,
+    "name": "仙台PIT",
+    "prefecture": "宮城県",
+    "address": "宮城県仙台市太白区あすと長町2-2-50"
+  },
+  {
+    "id": 6,
+    "name": "イオンモール幕張新都心 グランドモール1F グランドスクエア",
+    "prefecture": "千葉県",
+    "address": "千葉県千葉市美浜区豊砂1-1"
+  },
+  {
+    "id": 7,
+    "name": "ヨドバシカメラマルチメディア梅田 B2F ヨドバシホール",
+    "prefecture": "大阪府",
+    "address": "大阪府大阪市北区大深町1-1"
+  },
+  {
+    "id": 8,
+    "name": "エアポートウォーク名古屋 3F イベントステージ",
+    "prefecture": "愛知県",
+    "address": "愛知県西春日井郡豊山町豊場林先1-8"
+  },
+  {
+    "id": 9,
+    "name": "ららぽーと新三郷 1F スカイガーデンステージ",
+    "prefecture": "埼玉県"
+  },
+  {
+    "id": 10,
+    "name": "ダイバーシティ東京 プラザ フェスティバル広場",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 11,
+    "name": "仙台駅前EBeanS 10階屋上特設ステージ",
+    "prefecture": "宮城県",
+    "address": "宮城県仙台市青葉区中央4-1-1"
+  },
+  {
+    "id": 12,
+    "name": "イクスピアリ 2F セレブレーション・プラザ",
+    "prefecture": "千葉県",
+    "address": "千葉県浦安市舞浜1-4"
+  },
+  {
+    "id": 13,
+    "name": "EX THEATER ROPPONGI",
+    "prefecture": "東京都",
+    "address": "東京都港区西麻布1-2-9"
+  },
+  {
+    "id": 14,
+    "name": "Myunghwa Live Hall",
+    "prefecture": "韓国"
+  },
+  {
+    "id": 15,
+    "name": "animate hall BLACK (アニメイト池袋本店 北館9F)",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 16,
+    "name": "吹上ホール メインホール",
+    "prefecture": "愛知県"
+  },
+  {
+    "id": 17,
+    "name": "トークネットホール仙台（仙台市民会館）小ホール",
+    "prefecture": "宮城県"
+  },
+  {
+    "id": 18,
+    "name": "ドーンセンター7階ホール(大阪府立男女共同参画・青少年センター)",
+    "prefecture": "大阪府"
+  },
+  {
+    "id": 19,
+    "name": "福岡トヨタホールスカラエスパシオ",
+    "prefecture": "福岡県"
+  },
+  {
+    "id": 20,
+    "name": "ヒューリックホール東京",
+    "prefecture": "東京都"
+  }
+]

@@ -1,35 +1,5 @@
-# =========================
-# dependencies
-# =========================
-node_modules/
-
-# =========================
-# Next.js build cache（不要）
-# =========================
 .next/
 out/
-
-# =========================
-# ソースコード（GitHub Pagesには不要）
-# ※「ビルド済みHTMLだけ置く」前提
-# =========================
-src/
-scripts/
-public/
-tsconfig.json
-tsconfig.scripts.json
-next.config.js
-next-env.d.ts
-README.md
-
-# =========================
-# lockファイルは必須（←ここ重要）
-# =========================
-!package.json
-!package-lock.json
-
-# =========================
-# OS系
-# =========================
+node_modules/
 .DS_Store
-Thumbs.db
+*.log

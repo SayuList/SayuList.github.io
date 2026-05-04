@@ -1,0 +1,171 @@
+[
+  {
+    "id": 1,
+    "title": "ラブソング",
+    "album_id": 2,
+    "artist_id": 1,
+    "lyricist_ids": [
+      2
+    ],
+    "composer_ids": [
+      2
+    ],
+    "arranger_ids": [],
+    "youtube_music_url": "https://youtu.be/PA5eJg7BBRY?si=VaOfl02_F4CFCjQv",
+    "performance_count": 5,
+    "last_performed_date": "2026-04-12",
+    "last_performed_concert_id": 17
+  },
+  {
+    "id": 2,
+    "title": "1up!",
+    "album_id": 1,
+    "artist_id": 1,
+    "lyricist_ids": [
+      3,
+      4
+    ],
+    "composer_ids": [
+      4
+    ],
+    "arranger_ids": [
+      4
+    ],
+    "youtube_music_url": "https://youtu.be/0nX8Y92ADnM?si=9IxQadooM9T7avSo",
+    "performance_count": 8,
+    "last_performed_date": "2026-04-12",
+    "last_performed_concert_id": 17
+  },
+  {
+    "id": 3,
+    "title": "プレゼント",
+    "album_id": 3,
+    "artist_id": 1,
+    "lyricist_ids": [
+      1
+    ],
+    "composer_ids": [
+      7
+    ],
+    "arranger_ids": [],
+    "youtube_music_url": "https://youtu.be/zMxBZkaDvEA?si=O4gO2WM4NIZbFBLW",
+    "performance_count": 3,
+    "last_performed_date": "2026-04-12",
+    "last_performed_concert_id": 17
+  },
+  {
+    "id": 4,
+    "title": "Wonder Wonder Style",
+    "album_id": 4,
+    "artist_id": 1,
+    "lyricist_ids": [
+      27
+    ],
+    "composer_ids": [
+      27
+    ],
+    "arranger_ids": [
+      27
+    ],
+    "youtube_music_url": "https://www.youtube.com/watch?v=mKdzjeiGKOk",
+    "performance_count": 3,
+    "last_performed_date": "2026-04-12",
+    "last_performed_concert_id": 17
+  },
+  {
+    "id": 5,
+    "title": "だってだってだってだって〜",
+    "album_id": 4,
+    "artist_id": 1,
+    "lyricist_ids": [
+      28
+    ],
+    "composer_ids": [
+      28
+    ],
+    "arranger_ids": [
+      29
+    ],
+    "youtube_music_url": "https://www.youtube.com/watch?v=lTLJMeqWhEA",
+    "performance_count": 7,
+    "last_performed_date": "2026-04-12",
+    "last_performed_concert_id": 17
+  },
+  {
+    "id": 6,
+    "title": "自LOVE♡♡",
+    "album_id": 4,
+    "artist_id": 1,
+    "lyricist_ids": [
+      5
+    ],
+    "composer_ids": [
+      6
+    ],
+    "arranger_ids": [
+      6
+    ],
+    "youtube_music_url": "https://www.youtube.com/watch?v=RzatahIlnOw",
+    "performance_count": 10,
+    "last_performed_date": "2026-04-12",
+    "last_performed_concert_id": 17
+  },
+  {
+    "id": 7,
+    "title": "Lazy Sunday",
+    "album_id": 4,
+    "artist_id": 1,
+    "lyricist_ids": [
+      30
+    ],
+    "composer_ids": [
+      31
+    ],
+    "arranger_ids": [
+      31
+    ],
+    "youtube_music_url": "https://www.youtube.com/watch?v=TmKtze-0ufA",
+    "performance_count": 2,
+    "last_performed_date": "2026-04-12",
+    "last_performed_concert_id": 17
+  },
+  {
+    "id": 8,
+    "title": "出来損ない CONTINUE",
+    "album_id": 4,
+    "artist_id": 1,
+    "lyricist_ids": [
+      32
+    ],
+    "composer_ids": [
+      33
+    ],
+    "arranger_ids": [
+      32,
+      34
+    ],
+    "youtube_music_url": "https://www.youtube.com/watch?v=85sBGhSoKao",
+    "performance_count": 2,
+    "last_performed_date": "2026-04-12",
+    "last_performed_concert_id": 17
+  },
+  {
+    "id": 9,
+    "title": "First Feelings",
+    "album_id": 4,
+    "artist_id": 1,
+    "lyricist_ids": [
+      1
+    ],
+    "composer_ids": [
+      35
+    ],
+    "arranger_ids": [
+      36
+    ],
+    "youtube_music_url": "https://www.youtube.com/watch?v=V5C-nIdWvbY",
+    "performance_count": 2,
+    "last_performed_date": "2026-04-12",
+    "last_performed_concert_id": 17
+  }
+]
