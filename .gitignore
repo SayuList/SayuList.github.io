@@ -1,17 +1,15 @@
 # 依存関係
-node_modules
+node_modules/
 
 # Next.jsビルドキャッシュ
-.next
+.next/
 
 # ソースコード（GitHubには不要）
-src
-scripts
-public
+src/
+scripts/
+public/
 tsconfig.json
 tsconfig.scripts.json
-package.json
-package-lock.json
 next.config.js
 next-env.d.ts
 README.md
