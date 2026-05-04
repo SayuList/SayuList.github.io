@@ -1,0 +1,21 @@
+# 依存関係
+node_modules
+
+# Next.jsビルドキャッシュ
+.next
+
+# ソースコード（GitHubには不要）
+src
+scripts
+public
+tsconfig.json
+tsconfig.scripts.json
+package.json
+package-lock.json
+next.config.js
+next-env.d.ts
+README.md
+
+# OS系
+.DS_Store
+Thumbs.db
