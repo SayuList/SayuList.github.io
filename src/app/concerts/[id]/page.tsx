@@ -74,10 +74,16 @@ export default async function ConcertDetailPage({ params }: Props) {
             } else {
                 // CoverSong object
                 title = item.content.title;
-                isNavigable = false; // No link for cover songs not in DB usually, or just keep current logic
+                if (item.content.song_id) {
+                    href = `/songs/${item.content.song_id}`;
+                    isNavigable = true;
+                } else {
+                    isNavigable = false;
+                }
                 metaInfo = (
                     <div className="list-item-meta">
                         <span>Original Artist: {item.content.original_artist}</span>
+                        {item.content.singers && <span> | 歌唱: {item.content.singers}</span>}
                         {item.content.lyricist && <span> | 作詞: {item.content.lyricist}</span>}
                         {item.content.composer && <span> | 作曲: {item.content.composer}</span>}
                     </div>
@@ -131,6 +137,11 @@ export default async function ConcertDetailPage({ params }: Props) {
       </dl>
 
       <h2 style={{ marginTop: '2rem' }}>セットリスト</h2>
+      {concert.is_incomplete && (
+        <p className="list-item-meta" style={{ marginBottom: '1rem', marginTop: '-0.5rem' }}>
+          ※このセットリストは楽曲・MC情報等が不十分である場合があります。
+        </p>
+      )}
       {concert.setlist.length > 0 ? (
         <div>
           {await Promise.all(concert.setlist.map((item, index) => renderSetlistItem(item, index)))}

@@ -23,7 +23,10 @@ async function buildStatistics() {
     concerts.forEach(concert => {
       let isPerformedInThisConcert = false;
       concert.setlist.forEach(item => {
-        if (item.type !== 0 && typeof item.content === 'number' && item.content === song.id) {
+        const isTargetSong = (typeof item.content === 'number' && item.content === song.id) ||
+                           (typeof item.content === 'object' && item.content !== null && 'song_id' in item.content && item.content.song_id === song.id);
+        
+        if (item.type !== 0 && isTargetSong) {
           performance_count++;
           isPerformedInThisConcert = true;
         }

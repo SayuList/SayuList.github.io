@@ -38,7 +38,11 @@ export default async function SongDetailPage({ params }: Props) {
   const artist = await getArtist();
   const allConcerts = await getConcerts();
   const performances = allConcerts
-    .filter(c => c.setlist.some(item => item.type !== 0 && item.content === song.id))
+    .filter(c => c.setlist.some(item => {
+        const isTargetSong = (typeof item.content === 'number' && item.content === song.id) ||
+                           (typeof item.content === 'object' && item.content !== null && 'song_id' in item.content && (item.content as any).song_id === song.id);
+        return item.type !== 0 && isTargetSong;
+    }))
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
   
   const lastConcert = song.last_performed_concert_id 
@@ -132,8 +136,8 @@ export default async function SongDetailPage({ params }: Props) {
         <div>
           {performances.map(concert => (
             <Link href={`/concerts/${concert.id}`} key={concert.id} className="list-item">
-              <div className="list-item-title">{format(new Date(concert.date), 'yyyy年M月d日')}</div>
-              <div className="list-item-meta">{concert.title}</div>
+              <div className="list-item-title">{concert.title}</div>
+              <div className="list-item-meta">{format(new Date(concert.date), 'yyyy年M月d日')}</div>
             </Link>
           ))}
         </div>

@@ -6,35 +6,11 @@
     "venue_id": 1,
     "artist_id": 1,
     "setlist": [
-      {
-        "type": 1,
-        "content": {
-          "title": "Yeah! めっちゃホリディ",
-          "original_artist": "松浦亜弥",
-          "lyricist": "つんく",
-          "composer": "つんく",
-          "arranger": "高橋諭一"
-        }
-      },
-      {
-        "type": 1,
-        "content": {
-          "title": "アイマイモコ",
-          "original_artist": "水瀬いのり",
-          "lyricist": "HoneyWorks",
-          "composer": "HoneyWorks"
-        }
-      },
-      {
-        "type": 1,
-        "content": {
-          "title": "手紙",
-          "original_artist": "back number",
-          "lyricist": "清水依与吏",
-          "composer": "清水依与吏"
-        }
-      }
-    ]
+      { "type": 1, "content": { "title": "Yeah! めっちゃホリディ", "original_artist": "松浦亜弥", "lyricist": "つんく", "composer": "つんく", "arranger": "高橋諭一" } },
+      { "type": 1, "content": { "title": "アイマイモコ", "original_artist": "水瀬いのり", "lyricist": "HoneyWorks", "composer": "HoneyWorks" } },
+      { "type": 1, "content": { "title": "手紙", "original_artist": "back number", "lyricist": "清水依与吏", "composer": "清水依与吏" } }
+    ],
+    "is_incomplete": true
   },
   {
     "id": 2,
@@ -43,59 +19,14 @@
     "venue_id": 1,
     "artist_id": 1,
     "setlist": [
-      {
-        "type": 1,
-        "content": {
-          "title": "金曜日のおはよう -another story-",
-          "original_artist": "HoneyWorks",
-          "lyricist": "shito・Gom",
-          "composer": "shito"
-        }
-      },
-      {
-        "type": 1,
-        "content": {
-          "title": "心という名の不可解",
-          "original_artist": "Ado",
-          "lyricist": "まふまふ",
-          "composer": "まふまふ"
-        }
-      },
-      {
-        "type": 1,
-        "content": {
-          "title": "ボクノート",
-          "original_artist": "スキマスイッチ",
-          "lyricist": "大橋卓弥・常田真太郎",
-          "composer": "大橋卓弥・常田真太郎"
-        }
-      },
-      {
-        "type": 1,
-        "content": {
-          "title": "だから僕は音楽を辞めた",
-          "original_artist": "ヨルシカ",
-          "lyricist": "n-buna",
-          "composer": "n-buna"
-        }
-      },
-      {
-        "type": 1,
-        "content": {
-          "title": "あのころ見た光",
-          "original_artist": "緑黄色社会",
-          "lyricist": "長屋晴子",
-          "composer": "穴見真吾"
-        }
-      },
-      {
-        "type": 1,
-        "content": {
-          "title": "Crystal Wishes Journey",
-          "original_artist": "東京ディズニーシー"
-        }
-      }
-    ]
+      { "type": 1, "content": { "title": "金曜日のおはよう -another story-", "original_artist": "HoneyWorks", "lyricist": "shito・Gom", "composer": "shito" } },
+      { "type": 1, "content": { "title": "心という名の不可解", "original_artist": "Ado", "lyricist": "まふまふ", "composer": "まふまふ" } },
+      { "type": 1, "content": { "title": "ボクノート", "original_artist": "スキマスイッチ", "lyricist": "大橋卓弥・常田真太郎", "composer": "大橋卓弥・常田真太郎" } },
+      { "type": 1, "content": { "title": "だから僕は音楽を辞めた", "original_artist": "ヨルシカ", "lyricist": "n-buna", "composer": "n-buna" } },
+      { "type": 1, "content": { "title": "あのころ見た光", "original_artist": "緑黄色社会", "lyricist": "長屋晴子", "composer": "穴見真吾" } },
+      { "type": 1, "content": { "title": "Crystal Wishes Journey", "original_artist": "東京ディズニーシー" } }
+    ],
+    "is_incomplete": true
   },
   {
     "id": 3,
@@ -104,59 +35,14 @@
     "venue_id": 2,
     "artist_id": 1,
     "setlist": [
-      {
-        "type": 1,
-        "content": {
-          "title": "金曜日のおはよう -another story-",
-          "original_artist": "HoneyWorks",
-          "lyricist": "shito・Gom",
-          "composer": "shito"
-        }
-      },
-      {
-        "type": 1,
-        "content": {
-          "title": "Ready Steady Go!",
-          "original_artist": "水瀬いのり",
-          "lyricist": "畑 亜貴",
-          "composer": "高橋 諒"
-        }
-      },
-      {
-        "type": 1,
-        "content": {
-          "title": "怪盗",
-          "original_artist": "back number",
-          "lyricist": "清水依与吏",
-          "composer": "清水依与吏"
-        }
-      },
-      {
-        "type": 1,
-        "content": {
-          "title": "だから僕は音楽を辞めた",
-          "original_artist": "ヨルシカ",
-          "lyricist": "n-buna",
-          "composer": "n-buna"
-        }
-      },
-      {
-        "type": 1,
-        "content": {
-          "title": "あのころ見た光",
-          "original_artist": "緑黄色社会",
-          "lyricist": "長屋晴子",
-          "composer": "穴見真吾"
-        }
-      },
-      {
-        "type": 1,
-        "content": {
-          "title": "Crystal Wishes Journey",
-          "original_artist": "東京ディズニーシー"
-        }
-      }
-    ]
+      { "type": 1, "content": { "title": "金曜日のおはよう -another story-", "original_artist": "HoneyWorks", "lyricist": "shito・Gom", "composer": "shito" } },
+      { "type": 1, "content": { "title": "Ready Steady Go!", "original_artist": "水瀬いのり", "lyricist": "畑 亜貴", "composer": "高橋 諒" } },
+      { "type": 1, "content": { "title": "怪盗", "original_artist": "back number", "lyricist": "清水依与吏", "composer": "清水依与吏" } },
+      { "type": 1, "content": { "title": "だから僕は音楽を辞めた", "original_artist": "ヨルシカ", "lyricist": "n-buna", "composer": "n-buna" } },
+      { "type": 1, "content": { "title": "あのころ見た光", "original_artist": "緑黄色社会", "lyricist": "長屋晴子", "composer": "穴見真吾" } },
+      { "type": 1, "content": { "title": "Crystal Wishes Journey", "original_artist": "東京ディズニーシー" } }
+    ],
+    "is_incomplete": true
   },
   {
     "id": 4,
@@ -165,227 +51,189 @@
     "venue_id": 3,
     "artist_id": 1,
     "setlist": [
-      {
-        "type": 1,
-        "content": 2
-      },
-      {
-        "type": 1,
-        "content": {
-          "title": "SISTER",
-          "original_artist": "back number",
-          "lyricist": "清水依与吏",
-          "composer": "清水依与吏"
-        }
-      },
-      {
-        "type": 1,
-        "content": {
-          "title": "カヌレ",
-          "original_artist": "CHiCO with HoneyWorks",
-          "lyricist": "HoneyWorks",
-          "composer": "HoneyWorks"
-        }
-      },
-      {
-        "type": 1,
-        "content": {
-          "title": "明日",
-          "original_artist": "SHISHAMO",
-          "lyricist": "宮崎朝子",
-          "composer": "宮崎朝子"
-        }
-      },
-      {
-        "type": 1,
-        "content": 3
-      },
-      {
-        "type": 1,
-        "content": 1
-      }
-    ]
+      { "type": 1, "content": 2 },
+      { "type": 1, "content": { "title": "SISTER", "original_artist": "back number", "lyricist": "清水依与吏", "composer": "清水依与吏" } },
+      { "type": 1, "content": { "title": "カヌレ", "original_artist": "CHiCO with HoneyWorks", "lyricist": "HoneyWorks", "composer": "HoneyWorks" } },
+      { "type": 1, "content": { "title": "明日", "original_artist": "SHISHAMO", "lyricist": "宮崎朝子", "composer": "宮崎朝子" } },
+      { "type": 1, "content": 3 },
+      { "type": 1, "content": 1 }
+    ],
+    "is_incomplete": true
   },
   {
     "id": 5,
-    "title": "伊達さゆりBirthday Fan Meeting 23rd ～また明日も～ 東京公演 昼公演",
-    "date": "2025-09-30",
+    "title": "Say U Fan vol.7 伊達さゆり FAN MEETING 第1部",
+    "date": "2025-04-05",
     "venue_id": 4,
     "artist_id": 1,
     "setlist": [
-      {
-        "type": 1,
-        "content": 1
-      }
-    ]
+      { "type": 1, "content": 1 },
+      { "type": 1, "content": 2 }
+    ],
+    "is_incomplete": true
   },
   {
     "id": 6,
-    "title": "伊達さゆりBirthday Fan Meeting 23rd ～また明日も～ 東京公演 夜公演",
-    "date": "2025-09-30",
+    "title": "Say U Fan vol.7 伊達さゆり FAN MEETING 第2部",
+    "date": "2025-04-05",
     "venue_id": 4,
     "artist_id": 1,
     "setlist": [
-      {
-        "type": 1,
-        "content": 2
-      }
-    ]
+      { "type": 1, "content": 3 },
+      { "type": 1, "content": 2 }
+    ],
+    "is_incomplete": true
   },
   {
     "id": 7,
-    "title": "伊達さゆりBirthday Fan Meeting 23rd ～また明日も～ 仙台公演 昼公演",
-    "date": "2025-10-11",
+    "title": "伊達さゆりBirthday Fan Meeting 23rd ～また明日も～ 東京公演 昼公演",
+    "date": "2025-09-30",
     "venue_id": 5,
     "artist_id": 1,
     "setlist": [
-      {
-        "type": 1,
-        "content": 1
-      }
-    ]
+      { "type": 1, "content": 1 }
+    ],
+    "is_incomplete": true
   },
   {
     "id": 8,
-    "title": "伊達さゆりBirthday Fan Meeting 23rd ～また明日も～ 仙台公演 夜公演",
-    "date": "2025-10-11",
+    "title": "伊達さゆりBirthday Fan Meeting 23rd ～また明日も～ 東京公演 夜公演",
+    "date": "2025-09-30",
     "venue_id": 5,
     "artist_id": 1,
     "setlist": [
-      {
-        "type": 1,
-        "content": 2
-      }
-    ]
+      { "type": 1, "content": 2 }
+    ],
+    "is_incomplete": true
   },
   {
     "id": 9,
-    "title": "ソロデビューミニアルバム 『Party!Party!!Party!!!』 発売記念イベント＜千葉県＞",
-    "date": "2026-01-10",
-    "venue_id": 6,
-    "artist_id": 1,
-    "setlist": [
-      {
-        "type": 1,
-        "content": 2
-      },
-      {
-        "type": 1,
-        "content": 6
-      }
-    ]
-  },
-  {
-    "id": 10,
-    "title": "ソロデビューミニアルバム 『Party!Party!!Party!!!』 発売記念イベント＜大阪府＞",
-    "date": "2026-01-11",
+    "title": "伊達さゆりBirthday Fan Meeting 23rd ～また明日も～ 仙台公演 昼公演",
+    "date": "2025-10-11",
     "venue_id": 7,
     "artist_id": 1,
     "setlist": [
-      {
-        "type": 1,
-        "content": 2
-      },
-      {
-        "type": 1,
-        "content": 6
-      }
-    ]
+      { "type": 1, "content": 1 }
+    ],
+    "is_incomplete": true
+  },
+  {
+    "id": 10,
+    "title": "伊達さゆりBirthday Fan Meeting 23rd ～また明日も～ 仙台公演 夜公演",
+    "date": "2025-10-11",
+    "venue_id": 7,
+    "artist_id": 1,
+    "setlist": [
+      { "type": 1, "content": 2 }
+    ],
+    "is_incomplete": true
   },
   {
     "id": 11,
-    "title": "ソロデビューミニアルバム 『Party!Party!!Party!!!』 発売記念イベント＜愛知県＞",
-    "date": "2026-01-12",
-    "venue_id": 8,
+    "title": "Apollo Bay・5周年ライブ",
+    "date": "2025-11-24",
+    "venue_id": 6,
     "artist_id": 1,
     "setlist": [
-      {
-        "type": 1,
-        "content": 2
-      },
-      {
-        "type": 1,
-        "content": 6
-      }
+      { "type": 1, "content": { "title": "WAになっておどろう", "original_artist": "V6", "singers": "Apollo Bay 所属アーティスト10名", "lyricist": "長万部太郎", "composer": "長万部太郎" } },
+      { "type": 0, "content": "MC①" },
+      { "type": 1, "content": { "title": "♥DANZEN！kawaii！ ぷちきゅあ♥", "original_artist": "後本萌葉、ぷちきゅあ～Precure Fairies～", "singers": "後本萌葉", "lyricist": "青木久美子", "composer": "小杉保夫" } },
+      { "type": 1, "content": { "title": "行くぜっ!怪盗少女 -ZZ ver.-", "original_artist": "ももいろクローバーZ", "singers": "後本萌葉・荒井瑠里・堀内まり菜", "lyricist": "前山田健一", "composer": "前山田健一" } },
+      { "type": 0, "content": "幕間映像①" },
+      { "type": 1, "content": { "title": "青い珊瑚礁", "original_artist": "松田聖子", "singers": "鈴原希実", "lyricist": "三浦徳子", "composer": "小田裕一郎" } },
+      { "type": 1, "content": { "title": "あっちゅー魔！", "original_artist": "夜羽咲クロネ", "singers": "夜羽咲クロネ・月音こな", "lyricist": "LonePi", "composer": "LonePi" } },
+      { "type": 0, "content": "幕間映像②" },
+      { "type": 1, "content": { "title": "Just A Little Bit", "original_artist": "サザンオールスターズ", "singers": "堀内まり菜", "lyricist": "桑田佳祐", "composer": "桑田佳祐" } },
+      { "type": 1, "content": { "title": "SECRET ROSARY", "original_artist": "FIREVOLT", "singers": "荒井瑠里・堀内まり菜", "lyricist": "真崎エリカ", "composer": "原田篤 (Arte Refact)" } },
+      { "type": 1, "content": { "title": "夏の夢", "original_artist": "青山なぎさ", "singers": "青山なぎさ", "lyricist": "青山なぎさ", "composer": "津波幸平" } },
+      { "type": 1, "content": { "title": "ヴィクトリア〜勝利への扉〜", "original_artist": "青山なぎさ", "singers": "青山なぎさ・夜羽咲クロネ", "lyricist": "青山なぎさ", "composer": "フワリ" } },
+      { "type": 0, "content": "幕間映像③" },
+      { "type": 1, "content": { "title": "桃色片想い", "original_artist": "松浦亜弥", "singers": "ジェネメイト（伊達さゆり・鈴原希実・後本萌葉）", "lyricist": "つんく♂", "composer": "つんく♂" } },
+      { "type": 1, "content": { "title": "かわいいだけじゃだめですか？", "original_artist": "CUTIE STREET", "singers": "ジェネメイト（伊達さゆり・鈴原希実・後本萌葉）", "lyricist": "早川博隆", "composer": "早川博隆・渡邉俊彦" } },
+      { "type": 0, "content": "バラエティコーナー" },
+      { "type": 1, "content": { "title": "イマジネーション", "original_artist": "SPYAIR", "singers": "石川翔・内田将綺", "lyricist": "MOMIKEN", "composer": "UZ" } },
+      { "type": 1, "content": { "title": "青春の輪郭", "original_artist": "DOLLCHESTRA", "singers": "月音こな", "lyricist": "TATSUNE", "composer": "SHIBU" } },
+      { "type": 1, "content": { "title": "世界は恋に落ちている", "original_artist": "CHiCO with HoneyWorks", "singers": "月音こな・後本萌葉", "lyricist": "HoneyWorks", "composer": "HoneyWorks" } },
+      { "type": 1, "content": 1 },
+      { "type": 1, "content": { "title": "1up!", "original_artist": "伊達さゆり", "singers": "伊達さゆり・青山なぎさ", "lyricist": "to-kichi・馬瀬みさき", "composer": "馬瀬みさき", "song_id": 2 } },
+      { "type": 0, "content": "MC②" },
+      { "type": 1, "content": { "title": "SAIL OF HOPE", "original_artist": "Apollo Bay オールスターズ", "singers": "Apollo Bay 所属アーティスト10名", "lyricist": "万登香", "composer": "宮澤樹生" } }
     ]
   },
   {
     "id": 12,
-    "title": "ソロデビューミニアルバム 『Party!Party!!Party!!!』 発売記念イベント＜埼玉県＞",
-    "date": "2026-03-07",
-    "venue_id": 9,
+    "title": "ソロデビューミニアルバム 『Party!Party!!Party!!!』 発売記念イベント＜千葉県＞",
+    "date": "2026-01-10",
+    "venue_id": 8,
     "artist_id": 1,
-    "setlist": [
-      {
-        "type": 1,
-        "content": 6
-      },
-      {
-        "type": 1,
-        "content": 5
-      }
-    ]
+    "setlist": [ { "type": 1, "content": 2 }, { "type": 1, "content": 6 } ]
   },
   {
     "id": 13,
-    "title": "ソロデビューミニアルバム 『Party!Party!!Party!!!』 発売記念イベント＜宮城県＞",
-    "date": "2026-03-15",
-    "venue_id": 11,
+    "title": "ソロデビューミニアルバム 『Party!Party!!Party!!!』 発売記念イベント＜大阪府＞",
+    "date": "2026-01-11",
+    "venue_id": 9,
     "artist_id": 1,
-    "setlist": [
-      {
-        "type": 1,
-        "content": 6
-      },
-      {
-        "type": 1,
-        "content": 5
-      }
-    ]
+    "setlist": [ { "type": 1, "content": 2 }, { "type": 1, "content": 6 } ]
   },
   {
     "id": 14,
-    "title": "ソロデビューミニアルバム 『Party!Party!!Party!!!』 発売記念イベント＜東京都＞",
-    "date": "2026-03-24",
+    "title": "ソロデビューミニアルバム 『Party!Party!!Party!!!』 発売記念イベント＜愛知県＞",
+    "date": "2026-01-12",
     "venue_id": 10,
     "artist_id": 1,
-    "setlist": [
-      {
-        "type": 1,
-        "content": 6
-      },
-      {
-        "type": 1,
-        "content": 5
-      }
-    ]
+    "setlist": [ { "type": 1, "content": 2 }, { "type": 1, "content": 6 } ]
   },
   {
     "id": 15,
-    "title": "ソロデビューミニアルバム 『Party!Party!!Party!!!』 発売記念イベント＜千葉県＞",
-    "date": "2026-03-25",
-    "venue_id": 12,
+    "title": "カノフェス 2026 Day.2",
+    "date": "2026-02-15",
+    "venue_id": 11,
     "artist_id": 1,
     "setlist": [
-      {
-        "type": 1,
-        "content": 6
-      },
-      {
-        "type": 1,
-        "content": 5
-      },
-      {
-        "type": 1,
-        "content": 4
-      }
-    ]
+      { "type": 1, "content": 2 },
+      { "type": 1, "content": 5 },
+      { "type": 1, "content": 6 }
+    ],
+    "is_incomplete": true
   },
   {
     "id": 16,
+    "title": "ソロデビューミニアルバム 『Party!Party!!Party!!!』 発売記念イベント＜埼玉県＞",
+    "date": "2026-03-07",
+    "venue_id": 12,
+    "artist_id": 1,
+    "setlist": [ { "type": 1, "content": 6 }, { "type": 1, "content": 5 } ]
+  },
+  {
+    "id": 17,
+    "title": "ソロデビューミニアルバム 『Party!Party!!Party!!!』 発売記念イベント＜宮城県＞",
+    "date": "2026-03-15",
+    "venue_id": 14,
+    "artist_id": 1,
+    "setlist": [ { "type": 1, "content": 6 }, { "type": 1, "content": 5 } ]
+  },
+  {
+    "id": 18,
+    "title": "ソロデビューミニアルバム 『Party!Party!!Party!!!』 発売記念イベント＜東京都＞",
+    "date": "2026-03-24",
+    "venue_id": 13,
+    "artist_id": 1,
+    "setlist": [ { "type": 1, "content": 6 }, { "type": 1, "content": 5 } ]
+  },
+  {
+    "id": 19,
+    "title": "ソロデビューミニアルバム 『Party!Party!!Party!!!』 発売記念イベント＜千葉県＞",
+    "date": "2026-03-25",
+    "venue_id": 15,
+    "artist_id": 1,
+    "setlist": [ { "type": 1, "content": 6 }, { "type": 1, "content": 5 }, { "type": 1, "content": 4 } ]
+  },
+  {
+    "id": 20,
     "title": "伊達さゆり 1st LIVE「Party!Party!!Party!!!」 Day.1",
     "date": "2026-04-11",
-    "venue_id": 13,
+    "venue_id": 16,
     "artist_id": 1,
     "setlist": [
       { "type": 1, "content": 2 },
@@ -411,10 +259,10 @@
     ]
   },
   {
-    "id": 17,
+    "id": 21,
     "title": "伊達さゆり 1st LIVE「Party!Party!!Party!!!」 Day.2",
     "date": "2026-04-12",
-    "venue_id": 13,
+    "venue_id": 16,
     "artist_id": 1,
     "setlist": [
       { "type": 1, "content": 2 },
@@ -440,98 +288,98 @@
     ]
   },
   {
-    "id": 18,
+    "id": 22,
     "title": "Say U Fan Fes. vol.1",
     "date": "2026-05-23",
-    "venue_id": 14,
-    "artist_id": 1,
-    "setlist": []
-  },
-  {
-    "id": 19,
-    "title": "ソロデビューミニアルバム 『Party!Party!!Party!!!』 発売記念店舗イベント",
-    "date": "2026-06-03",
-    "venue_id": 15,
-    "artist_id": 1,
-    "setlist": []
-  },
-  {
-    "id": 20,
-    "title": "伊達さゆり Fan Meeting Tour 2026 ＜愛知公演＞ 昼公演",
-    "date": "2026-06-27",
-    "venue_id": 16,
-    "artist_id": 1,
-    "setlist": []
-  },
-  {
-    "id": 21,
-    "title": "伊達さゆり Fan Meeting Tour 2026 ＜愛知公演＞ 夜公演",
-    "date": "2026-06-27",
-    "venue_id": 16,
-    "artist_id": 1,
-    "setlist": []
-  },
-  {
-    "id": 22,
-    "title": "伊達さゆり Fan Meeting Tour 2026 ＜宮城公演＞ 昼公演",
-    "date": "2026-07-19",
     "venue_id": 17,
     "artist_id": 1,
     "setlist": []
   },
   {
     "id": 23,
-    "title": "伊達さゆり Fan Meeting Tour 2026 ＜宮城公演＞ 夜公演",
-    "date": "2026-07-19",
-    "venue_id": 17,
+    "title": "ソロデビューミニアルバム 『Party!Party!!Party!!!』 発売記念店舗イベント",
+    "date": "2026-06-03",
+    "venue_id": 18,
     "artist_id": 1,
     "setlist": []
   },
   {
     "id": 24,
-    "title": "伊達さゆり Fan Meeting Tour 2026 ＜大阪公演＞ 昼公演",
-    "date": "2026-07-26",
-    "venue_id": 18,
+    "title": "伊達さゆり Fan Meeting Tour 2026 ＜愛知公演＞ 昼公演",
+    "date": "2026-06-27",
+    "venue_id": 19,
     "artist_id": 1,
     "setlist": []
   },
   {
     "id": 25,
-    "title": "伊達さゆり Fan Meeting Tour 2026 ＜大阪公演＞ 夜公演",
-    "date": "2026-07-26",
-    "venue_id": 18,
+    "title": "伊達さゆり Fan Meeting Tour 2026 ＜愛知公演＞ 夜公演",
+    "date": "2026-06-27",
+    "venue_id": 19,
     "artist_id": 1,
     "setlist": []
   },
   {
     "id": 26,
-    "title": "伊達さゆり Fan Meeting Tour 2026 ＜福岡公演＞ 昼公演",
-    "date": "2026-09-12",
-    "venue_id": 19,
+    "title": "伊達さゆり Fan Meeting Tour 2026 ＜宮城公演＞ 昼公演",
+    "date": "2026-07-19",
+    "venue_id": 20,
     "artist_id": 1,
     "setlist": []
   },
   {
     "id": 27,
-    "title": "伊達さゆり Fan Meeting Tour 2026 ＜福岡公演＞ 夜公演",
-    "date": "2026-09-12",
-    "venue_id": 19,
+    "title": "伊達さゆり Fan Meeting Tour 2026 ＜宮城公演＞ 夜公演",
+    "date": "2026-07-19",
+    "venue_id": 20,
     "artist_id": 1,
     "setlist": []
   },
   {
     "id": 28,
-    "title": "伊達さゆり Fan Meeting Tour 2026 ＜東京公演＞ 昼公演",
-    "date": "2026-09-30",
-    "venue_id": 20,
+    "title": "伊達さゆり Fan Meeting Tour 2026 ＜大阪公演＞ 昼公演",
+    "date": "2026-07-26",
+    "venue_id": 21,
     "artist_id": 1,
     "setlist": []
   },
   {
     "id": 29,
+    "title": "伊達さゆり Fan Meeting Tour 2026 ＜大阪公演＞ 夜公演",
+    "date": "2026-07-26",
+    "venue_id": 21,
+    "artist_id": 1,
+    "setlist": []
+  },
+  {
+    "id": 30,
+    "title": "伊達さゆり Fan Meeting Tour 2026 ＜福岡公演＞ 昼公演",
+    "date": "2026-09-12",
+    "venue_id": 22,
+    "artist_id": 1,
+    "setlist": []
+  },
+  {
+    "id": 31,
+    "title": "伊達さゆり Fan Meeting Tour 2026 ＜福岡公演＞ 夜公演",
+    "date": "2026-09-12",
+    "venue_id": 22,
+    "artist_id": 1,
+    "setlist": []
+  },
+  {
+    "id": 32,
+    "title": "伊達さゆり Fan Meeting Tour 2026 ＜東京公演＞ 昼公演",
+    "date": "2026-09-30",
+    "venue_id": 23,
+    "artist_id": 1,
+    "setlist": []
+  },
+  {
+    "id": 33,
     "title": "伊達さゆり Fan Meeting Tour 2026 ＜東京公演＞ 夜公演",
     "date": "2026-09-30",
-    "venue_id": 20,
+    "venue_id": 23,
     "artist_id": 1,
     "setlist": []
   }

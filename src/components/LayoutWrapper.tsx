@@ -18,6 +18,7 @@ export default function LayoutWrapper({
   return (
     <>
       <MobileHeader onMenuClick={toggleMenu} />
+      {isMenuOpen && <div className="sidebar-overlay" onClick={toggleMenu} />}
       <div className={`main-layout ${isMenuOpen ? 'menu-open' : ''}`}>
         <Sidebar onLinkClick={toggleMenu} />
         {children}

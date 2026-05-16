@@ -41,6 +41,8 @@ export interface CoverSong {
     lyricist?: string;
     composer?: string;
     arranger?: string;
+    singers?: string; // For collaborative versions
+    song_id?: number; // Link to internal song page if applicable
 }
 
 export enum SetlistItemType {
@@ -62,6 +64,7 @@ export interface Concert {
     venue_id: number;
     artist_id: number;
     setlist: SetlistItem[];
+    is_incomplete?: boolean; // Flag for incomplete/uncertain setlist data
     is_deleted?: boolean;
 }
 
